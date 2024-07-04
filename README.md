@@ -35,3 +35,14 @@ The data was split in the following way:
 1) 70% of the data for training.
 2) 15% of the data for validation.
 3) 15% of the data for testing.
+
+
+Results:
+
+Now, the best model (the one with the best validation accuracy) detects brain tumor with:
+
+88.7% accuracy on the test set.
+
+0.88 f1 score on the test set.
+
+These resutls are very good considering that the data is balanced.
